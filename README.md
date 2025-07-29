@@ -1,4 +1,4 @@
-# Pedalera_esp32-3S
+# Pedalera_esp32-S3
 - fue hecho para esp32-S2/S3 la iteracion ocupada fue "esp32-s3-fh4r2"
 - las carpetas "Pedalera" son proyectos en platformio (extencion vs)
 ---
